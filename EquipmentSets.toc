@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: Equipment Sets
+## Author: Ancoron
+## Version: 1.0
+## SavedVariablesPerCharacter: EquipmentSets_Saved
+
+EquipmentSets.lua
