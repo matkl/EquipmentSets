@@ -2,6 +2,8 @@
 
 Manage equipment sets in World of Warcraft Classic via slash commands. No GUI.
 
+Download: https://github.com/matkl/EquipmentSets/releases/latest
+
 ## Slash Commands
 
 - **/equipset**
