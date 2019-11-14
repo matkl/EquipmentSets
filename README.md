@@ -6,6 +6,15 @@ Download: https://github.com/matkl/EquipmentSets/releases/latest
 
 ## Slash Commands
 
+- **/saveset**
+
+  Save all currently equipped items to a set.
+  
+  Example:
+  ```
+  /saveset dps
+  ```
+
 - **/equipset**
 
   Equip a saved set.
@@ -22,15 +31,6 @@ Download: https://github.com/matkl/EquipmentSets/releases/latest
   Example:
   ```
   /showset tank
-  ```
-
-- **/saveset**
-
-  Save all currently equipped items to a set.
-  
-  Example:
-  ```
-  /saveset dps
   ```
 
 - **/deleteset**
